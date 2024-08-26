@@ -1,2 +1,2 @@
-console.log("Hello Typescript");
+console.log("Hello TypeScript");
 const a: number = 1;
